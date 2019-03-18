@@ -1,4 +1,4 @@
-# Projeto ChatBot para pizzaria.
+Projeto ChatBot para pizzaria.
 
 // clone o repositorio
 // npm install
