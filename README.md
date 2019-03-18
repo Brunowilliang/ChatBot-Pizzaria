@@ -1,9 +1,7 @@
 Projeto ChatBot para pizzaria.
 
-// clone o repositorio
+clone o repositorio
 // npm install
-// yarn add prop-types ou npm install prop-types
-// yarn add react-simple-chatbot ou npm install react-simple-chatbot
 
 Component de Chat usado: https://lucasbassetti.com.br/react-simple-chatbot/
 
